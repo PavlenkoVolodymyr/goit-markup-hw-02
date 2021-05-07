@@ -35,10 +35,16 @@ color: #000000;
   color: #2196F3;
 }
 
-}
-.header-contact a:hover,
-.header-contact a:focus{
+.header-contact-mailto:hover,
+.header-contact-mailto:focus{
   color: #2196F3;
+}
+
+.header-contact-tel:hover,
+.header-contact-tel:focus{
+  color: #2196F3;
+}
+
 }
 .header-nav-menu a{
 font-weight: 500;
