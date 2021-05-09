@@ -238,7 +238,7 @@ body {
 /* portfolio filtr */
 .filtr-btn:hover,
 .filtr-btn:focus {
-  background: #188ce8;
+  background: var(--link-services-color);
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.06em;
@@ -251,6 +251,7 @@ body {
   line-height: 1.63;
   text-align: center;
   color: var(--title-text-color);
+  background-color: var(--secondary-bg-color);
 }
 /* end portfolio filtr */
 
